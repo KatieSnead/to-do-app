@@ -1,0 +1,27 @@
+header {
+  background: url(../images/kelly-sikkema--1_RZL8BGBM-unsplash.jpg) center / cover;
+  height: 50vh;
+  justify-content: center;
+  text-align;
+}
+
+h1 {
+  color: #ffff;
+  font-weight: bold;
+  text-align: center;
+  margin: auto;
+}
+
+#addToDoForm,
+#toDoList {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#newToDoText {
+  width: 200px;
+}
+
+input {
+  margin: 0 20px;
+}
